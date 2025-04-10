@@ -6,6 +6,8 @@ public class Drone {
     int ketinggian;
     int kecepatan;
     String merek;
+
+    //hehe
     
 
     //pak akbar
