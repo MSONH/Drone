@@ -6,6 +6,14 @@ public class Drone {
     int ketinggian;
     int kecepatan;
     String merek;
+    
+
+    //pak akbar
+    void lompat(){
+        energi--;
+        ketinggian++;
+        System.out.println("Drone lompat dengan ketinggian"+ketinggian);
+    }
 
     // method
     void terbang(){
